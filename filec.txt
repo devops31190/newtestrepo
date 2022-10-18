@@ -1,1 +1,2 @@
 this is file c
+made change in file c to test squash merge
