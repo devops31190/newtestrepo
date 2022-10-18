@@ -1,1 +1,2 @@
 this is file b
+made changes in file b for testing merge
