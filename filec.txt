@@ -1,1 +1,2 @@
 this is file c
+this is a chnage to test the merge and see the result 
